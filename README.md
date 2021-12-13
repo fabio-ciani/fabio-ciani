@@ -1,9 +1,15 @@
+<!--
+## Greetings, I’m Fabio! 👋🏻
+-->
 ## Greetings, I’m Fabio! :wave:
 
-I’m currently studying Computer Science & Engineering at [Politecnico di Milano][polimi], Italy.
+I’m a student, currently enrolled in a B.Sc. in _Engineering of Computing Systems_ at [Polytechnic University of Milan][polimi], Italy.
 
 ---
 
+<!--
+### Languages & Tools 💻
+-->
 ### Languages & Tools :computer:
 
 <img align = "left" alt = "C" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -17,6 +23,10 @@ I’m currently studying Computer Science & Engineering at [Politecnico di Milan
 
 ---
 
+<!--
+### Past Projects 💾
+-->
+
 ### Past Projects :floppy_disk:
 
 I’ve built several high-school projects in my free time involving [p5.js][p5graphics], a simple but yet powerful JavaScript graphing library.<br />
@@ -26,12 +36,20 @@ I’ve built several high-school projects in my free time involving [p5.js][p5gr
 
 ---
 
+<!--
+### Utility 💡
+-->
+
 ### Utility :bulb:
 
 I’m improving in the usage of LaTeX.<br /><br />
 <img alt = "LaTeX" width = "158px" src = "https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg">
 
 ---
+
+<!--
+### Stats 📈
+-->
 
 ### Stats :chart_with_upwards_trend:
 
