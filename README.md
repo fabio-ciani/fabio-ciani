@@ -1,8 +1,7 @@
 ## Greetings, I’m Fabio! :wave:
 
 I have graduated from _Engineering of Computing Systems_ B.Sc. in July 2022.
-
-I’m a student, enrolled in a M.Sc. in _Computer Science & Engineering_ at [Polytechnic University of Milan][polimi], Italy.
+I am a student, enrolled in a M.Sc. in _Computer Science & Engineering_ at [Polytechnic University of Milan][polimi], Italy.
 
 ---
 
@@ -35,8 +34,8 @@ I’m improving in the usage of [LaTeX][latex], a high-quality typesetting syste
 
 ### Stats :chart_with_upwards_trend:
 
-<img align = "left" alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=fabio-ciani-polimi&show_icons=true">
-<img align = "left" alt = "GitHub Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ciani-polimi">
+<img align = "left" alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=fabio-ciani&show_icons=true">
+<img align = "left" alt = "GitHub Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ciani">
 
 
 [polimi]: https://www.polimi.it/
