@@ -3,12 +3,12 @@
 A passionate programmer and developer, with special interests in artificial intelligence, machine
 learning and cryptography.
 
-## About me
+## About me :boy:
 
 * Graduated with a B.Sc. in _Engineering of Computing Systems_ in July 2022.
 * Currently enrolled in a M.Sc. in _Computer Science & Engineering_ at [Polytechnic University of Milan](https://www.polimi.it/), Italy.
 * Practised music for almost ten years.
-* Always glad to help and learn new stuff!
+<!-- * Always glad to help and learn new stuff! -->
 
 ## Languages & Tools :computer:
 
