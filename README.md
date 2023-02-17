@@ -20,17 +20,20 @@ learning and cryptography.
 <img alt = "Python" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img alt = "Java" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img alt = "JavaScript" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img alt = "Jupyter" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-<!-- <img align = "left" alt = "MATLAB" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> -->
 <!-- <img align = "left" alt = "R" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> -->
+<!-- <img align = "left" alt = "MATLAB" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> -->
+<img alt = "Jupyter" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 </div>
 
 ### Databases
 
 <div style = "float: left;">
 <img alt = "MySQL" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img alt = "Neo4j" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg">
 <img alt = "MongoDB" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img alt = "Cassandra" width = "48px" src = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg">
+<!-- <img alt = "Redis" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> -->
+<img alt = "Neo4j" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg">
+<img alt = "ELK" width = "48px" src = "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0090c6239e64faf8/62aa0980c949fd5059e8aebc/logo-stack-32-color.svg">
 </div>
 
 ### Web
@@ -45,6 +48,7 @@ learning and cryptography.
 ### Miscellaneous
 
 <div style = "float: left;">
+<img alt = "Office" width = "48px" src = "https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg">
 <img alt = "LaTeX" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 <img alt = "Markdown" width = "48px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
